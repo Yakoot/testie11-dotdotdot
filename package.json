@@ -8,6 +8,8 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@babel/polyfill": "^7.4.0",
+    "dotdotdot-js": "^4.0.5",
     "vue": "^2.6.6"
   },
   "devDependencies": {

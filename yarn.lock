@@ -570,6 +570,14 @@
     "@babel/helper-regex" "^7.0.0"
     regexpu-core "^4.1.3"
 
+"@babel/polyfill@^7.4.0":
+  version "7.4.0"
+  resolved "https://registry.yarnpkg.com/@babel/polyfill/-/polyfill-7.4.0.tgz#90f9d68ae34ac42ab4b4aa03151848f536960218"
+  integrity sha512-bVsjsrtsDflIHp5I6caaAa2V25Kzn50HKPL6g3X0P0ni1ks+58cPB8Mz6AOKVuRPgaVdq/OwEUc/1vKqX+Mo4A==
+  dependencies:
+    core-js "^2.6.5"
+    regenerator-runtime "^0.13.2"
+
 "@babel/preset-env@^7.0.0":
   version "7.4.2"
   resolved "https://registry.yarnpkg.com/@babel/preset-env/-/preset-env-7.4.2.tgz#2f5ba1de2daefa9dcca653848f96c7ce2e406676"
@@ -2752,6 +2760,11 @@ dot-prop@^4.1.1:
   integrity sha512-tUMXrxlExSW6U2EXiiKGSBVdYgtV8qlHL+C10TsW4PURY/ic+eaysnSkwB4kA/mBlCyy/IKDJ+Lc3wbWeaXtuQ==
   dependencies:
     is-obj "^1.0.0"
+
+dotdotdot-js@^4.0.5:
+  version "4.0.5"
+  resolved "https://registry.yarnpkg.com/dotdotdot-js/-/dotdotdot-js-4.0.5.tgz#eae8d7bd64ced161419b09ce0e8aa2ffc087e9bb"
+  integrity sha512-fmyV5w/Gd2HdhzgM862z0K5bvAbPllGP8D5P7w5uD2i1dplkpRoTkYVn9jJmO13w/C1S7zJC7nCprtcTD18mbA==
 
 dotenv-expand@^4.2.0:
   version "4.2.0"
